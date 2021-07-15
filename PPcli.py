@@ -1,3 +1,6 @@
+
+# THIS IS A CLI APP OF MY PYTHON PORT SCANNER "PyPorts" #
+
 import typer
 import socket
 import os
